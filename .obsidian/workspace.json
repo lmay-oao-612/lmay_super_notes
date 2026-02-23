@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#一级标题",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +191,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "50486c3c1be25d1d",
+  "active": "192c7e7bc5ff2662",
   "lastOpenFiles": [
     "未命名.canvas",
     "Obisdian使用方法和探索.md",
