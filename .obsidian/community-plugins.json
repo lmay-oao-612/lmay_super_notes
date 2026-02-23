@@ -1,5 +1,6 @@
 [
   "obsidian-git",
-  "calendar",
-  "dataview"
+  "obsidian-minimal-settings",
+  "obsidian-hider",
+  "templater-obsidian"
 ]
