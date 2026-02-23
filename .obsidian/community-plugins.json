@@ -2,5 +2,8 @@
   "obsidian-git",
   "obsidian-minimal-settings",
   "obsidian-hider",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-style-settings",
+  "obsidian-excalidraw-plugin",
+  "calendar"
 ]
