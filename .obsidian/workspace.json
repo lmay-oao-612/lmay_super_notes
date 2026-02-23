@@ -161,13 +161,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "4be11a699b905496",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,11 +193,12 @@
   },
   "active": "50486c3c1be25d1d",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "Obisdian使用方法和探索.md",
     "lmay的第一个笔记.md",
+    "测试.md",
     "未命名.base",
     "未命名 1.base",
-    "Obisdian使用方法和探索.md",
-    "未命名.md",
     "2026-02-20.md",
     "未命名 2.base",
     "未命名",
