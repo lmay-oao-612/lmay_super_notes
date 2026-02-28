@@ -155,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2026-02-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2026-02-23 的大纲"
             }
           },
           {
@@ -194,11 +195,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 460.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,11 +217,11 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "8ffb76aee6900735",
+  "active": "9c70622ad45a9317",
   "lastOpenFiles": [
+    "2026-02-23.md",
     "Excalidraw/Drawing 2026-02-23 15.08.50.excalidraw.md",
     "Obisdian使用方法和探索.md",
-    "2026-02-23.md",
     "Excalidraw",
     "lmay的第一个笔记.md",
     "未命名.base",
