@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "历史不存在论"
             }
+          },
+          {
+            "id": "d8257ba5bf21fd7a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,12 +230,13 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "8ffb76aee6900735",
+  "active": "d8257ba5bf21fd7a",
   "lastOpenFiles": [
-    "2026-02-23.md",
-    "奇思妙想/历史不存在论.md",
-    "奇思妙想",
+    "每日任务",
     "Excalidraw/Drawing 2026-02-23 15.08.50.excalidraw.md",
+    "奇思妙想/历史不存在论.md",
+    "2026-02-23.md",
+    "奇思妙想",
     "Obisdian使用方法和探索.md",
     "Excalidraw",
     "lmay的第一个笔记.md",
