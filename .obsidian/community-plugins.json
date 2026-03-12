@@ -2,11 +2,6 @@
   "obsidian-git",
   "obsidian-minimal-settings",
   "obsidian-hider",
-  "templater-obsidian",
   "obsidian-style-settings",
-  "obsidian-excalidraw-plugin",
-  "obsidian-day-planner",
-  "obsidian-tasks-plugin",
-  "calendar",
-  "dataview"
+  "calendar"
 ]

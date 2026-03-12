@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "49fe98fded6bfabb",
+        "id": "c8a3917754c95146",
         "type": "tabs",
         "children": [
           {
-            "id": "8ffb76aee6900735",
+            "id": "6a34ea9272a9582e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "奇思妙想/反方向的博物馆.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "反方向的博物馆"
+              "title": "新标签页"
             }
           }
         ]
@@ -175,17 +171,7 @@
             }
           },
           {
-            "id": "31d8d5937578ee51",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "ed675c79ada93187",
+            "id": "2ed1ad4c150cef85",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -217,18 +203,19 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "8ffb76aee6900735",
+  "active": "6a34ea9272a9582e",
   "lastOpenFiles": [
-    "奇思妙想/历史不存在论.md",
+    "未命名.base",
+    "26年上学期",
+    "Excalidraw/Drawing 2026-02-23 15.08.50.excalidraw.md",
+    "奇思妙想/lmay的第一个笔记.md",
     "奇思妙想/反方向的博物馆.md",
+    "奇思妙想/历史不存在论.md",
     "Obisdian使用方法和探索.md",
     "每日任务",
-    "Excalidraw/Drawing 2026-02-23 15.08.50.excalidraw.md",
     "2026-02-23.md",
     "奇思妙想",
     "Excalidraw",
-    "奇思妙想/lmay的第一个笔记.md",
-    "未命名.base",
     "2026-W09.md",
     "未命名.canvas",
     "测试.md",
