@@ -3,5 +3,7 @@
   "obsidian-minimal-settings",
   "obsidian-hider",
   "obsidian-style-settings",
-  "calendar"
+  "calendar",
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian"
 ]
