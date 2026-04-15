@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "课表"
             }
-          },
-          {
-            "id": "6c78b94b1f4c99b3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,11 +205,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6c78b94b1f4c99b3",
+  "active": "6a34ea9272a9582e",
   "lastOpenFiles": [
-    "26年上学期/GIS工程与开发.md",
-    "26年上学期/课表.md",
+    "26年上学期/空间数据库原理及应用.md",
     "26年上学期/空间统计与分析.md",
+    "26年上学期/课表.md",
+    "空间数据库原理及应用.md",
+    "26年上学期/未命名",
+    "26年上学期/GIS工程与开发.md",
     "26年上学期/摄影测量原理.md",
     "未命名.base",
     "26年上学期",
