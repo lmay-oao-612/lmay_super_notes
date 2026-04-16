@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26年上学期/课表.md",
+                "file": "文献综述/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "课表"
+              "title": "未命名"
             }
           }
         ]
@@ -207,9 +207,11 @@
   },
   "active": "6a34ea9272a9582e",
   "lastOpenFiles": [
+    "26年上学期/课表.md",
+    "文献综述/未命名.md",
+    "文献综述",
     "26年上学期/空间数据库原理及应用.md",
     "26年上学期/空间统计与分析.md",
-    "26年上学期/课表.md",
     "空间数据库原理及应用.md",
     "26年上学期/未命名",
     "26年上学期/GIS工程与开发.md",
