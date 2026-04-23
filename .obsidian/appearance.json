@@ -1,6 +1,6 @@
 {
   "showRibbon": true,
   "cssTheme": "Minimal",
-  "nativeMenus": false,
+  "nativeMenus": true,
   "baseFontSize": 12
 }
