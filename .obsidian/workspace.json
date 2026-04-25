@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-02-23.md",
+                "file": "26年上学期/计算机图形学/计算机图形学.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-23 的大纲"
+              "title": "计算机图形学 的大纲"
             }
           },
           {
@@ -185,11 +185,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 477.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,6 +208,7 @@
   },
   "active": "192c7e7bc5ff2662",
   "lastOpenFiles": [
+    "26年上学期/GIS工程与开发/云天浩 2024104049第六周.docx",
     "26年上学期/课表.md",
     "26年上学期/GIS工程与开发",
     "26年上学期/误差理论和数据处理",
