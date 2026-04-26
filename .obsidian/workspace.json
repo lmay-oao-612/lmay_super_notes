@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obisdian使用方法和探索.md",
+                "file": "任务.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obisdian使用方法和探索"
+              "title": "任务"
             }
           }
         ]
@@ -206,11 +206,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "192c7e7bc5ff2662",
+  "active": "6a34ea9272a9582e",
   "lastOpenFiles": [
+    "要求.md",
+    "任务.md",
     "Obisdian使用方法和探索.md",
     "26年上学期/计算机图形学/计算机图形学.md",
-    "要求.md",
     "26年上学期/GIS工程与开发/云天浩 2024104049第六周.docx",
     "26年上学期/课表.md",
     "26年上学期/GIS工程与开发",
@@ -243,7 +244,6 @@
     "2026-02-23.md",
     "2026-W09.md",
     "未命名.canvas",
-    "测试.md",
-    "2026-02-20.md"
+    "测试.md"
   ]
 }
