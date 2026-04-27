@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "要求.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "要求"
+              "title": "未命名"
             }
           }
         ]
@@ -208,8 +208,9 @@
   },
   "active": "6a34ea9272a9582e",
   "lastOpenFiles": [
-    "任务.md",
     "要求.md",
+    "未命名.md",
+    "任务.md",
     "任务 1.md",
     "Obisdian使用方法和探索.md",
     "26年上学期/计算机图形学/计算机图形学.md",
@@ -243,7 +244,6 @@
     "空间数据库原理及应用.md",
     "Excalidraw/Drawing 2026-02-23 15.08.50.excalidraw.md",
     "2026-02-23.md",
-    "2026-W09.md",
     "未命名.canvas"
   ]
 }
