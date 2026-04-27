@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "要求.md",
+                "file": "思路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "要求"
+              "title": "思路"
             }
           }
         ]
@@ -206,7 +206,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "192c7e7bc5ff2662",
+  "active": "6a34ea9272a9582e",
   "lastOpenFiles": [
     "要求.md",
     "思路.md",
