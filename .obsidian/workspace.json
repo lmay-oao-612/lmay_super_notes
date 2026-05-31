@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26年上学期/课表.md",
+                "file": "低空监管时空数据库设计文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "课表"
+              "title": "低空监管时空数据库设计文档"
             }
           }
         ],
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26年上学期/课表.md",
+                "file": "低空监管时空数据库设计文档.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "课表 的大纲"
+              "title": "低空监管时空数据库设计文档 的大纲"
             }
           },
           {
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26年上学期/课表.md",
+                "file": "低空监管时空数据库设计文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "课表 的反向链接列表"
+              "title": "低空监管时空数据库设计文档 的反向链接列表"
             }
           },
           {
@@ -167,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26年上学期/课表.md",
+                "file": "低空监管时空数据库设计文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "课表 的出链列表"
+              "title": "低空监管时空数据库设计文档 的出链列表"
             }
           },
           {
@@ -226,12 +226,14 @@
   },
   "active": "4989869e99cc9ae9",
   "lastOpenFiles": [
-    "26年上学期/摄影测量原理/摄影测量原理.md",
-    "26年上学期/计算机图形学/计算机图形学.md",
-    "低空监管时空数据库设计文档.md",
-    "Excalidraw/Drawing 2026-02-23 15.08.50.excalidraw.md",
     "奇思妙想/lmay的第一个笔记.md",
     "奇思妙想/多年前的子弹正中靶心.md",
+    "26年上学期/误差理论和数据处理/误差理论和数据处理.md",
+    "26年上学期/计算机图形学/计算机图形学.md",
+    "26年上学期/课表.md",
+    "26年上学期/摄影测量原理/摄影测量原理.md",
+    "低空监管时空数据库设计文档.md",
+    "Excalidraw/Drawing 2026-02-23 15.08.50.excalidraw.md",
     "奇思妙想/反方向的博物馆.md",
     "奇思妙想/智子悖论.md",
     "奇思妙想/历史不存在论.md",
@@ -242,14 +244,12 @@
     "任务 1.md",
     "Obisdian使用方法和探索.md",
     "26年上学期/GIS工程与开发/云天浩 2024104049第六周.docx",
-    "26年上学期/课表.md",
     "26年上学期/GIS工程与开发",
     "26年上学期/误差理论和数据处理",
     "26年上学期/摄影测量原理",
     "26年上学期/空间统计与分析",
     "26年上学期/空间数据库原理及应用",
     "26年上学期/计算机图形学",
-    "26年上学期/误差理论和数据处理/误差理论和数据处理.md",
     "26年上学期/空间统计与分析/空间统计与分析.md",
     "26年上学期/GIS工程与开发/GIS工程与开发.md",
     "文献综述/预定义几何规划/分段规划与平滑路径算法.md",
