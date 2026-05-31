@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "智子悖论"
             }
+          },
+          {
+            "id": "ce6420fcb5345fa4",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {},
+              "icon": "gear",
+              "title": "Style Settings"
+            }
+          },
+          {
+            "id": "bb265b97ac635ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "低空监管时空数据库设计文档.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "低空监管时空数据库设计文档"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,13 +230,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6a34ea9272a9582e",
+  "active": "4be11a699b905496",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-02-23 15.08.50.excalidraw.md",
+    "奇思妙想/lmay的第一个笔记.md",
+    "奇思妙想/多年前的子弹正中靶心.md",
+    "低空监管时空数据库设计文档.md",
     "奇思妙想/反方向的博物馆.md",
     "奇思妙想/智子悖论.md",
-    "奇思妙想/多年前的子弹正中靶心.md",
     "奇思妙想/历史不存在论.md",
-    "低空监管时空数据库设计文档.md",
     "未命名.md",
     "要求.md",
     "思路.md",
@@ -228,7 +255,6 @@
     "26年上学期/空间数据库原理及应用",
     "26年上学期/计算机图形学",
     "26年上学期/误差理论和数据处理/误差理论和数据处理.md",
-    "奇思妙想/lmay的第一个笔记.md",
     "26年上学期/空间统计与分析/空间统计与分析.md",
     "26年上学期/摄影测量原理/摄影测量原理.md",
     "26年上学期/GIS工程与开发/GIS工程与开发.md",
@@ -239,7 +265,6 @@
     "文献综述/预定义几何规划/几何避障与遗传算法集成模型.md",
     "文献综述/预定义几何规划/几何A-star算法.md",
     "文献综述/预定义几何规划/优化视角摄影测量算法.md",
-    "文献综述/预定义几何规划/预定义几何航迹规划算法.md",
     "文献综述/文献pdf/分段规划与平滑路径算法.pdf",
     "文献综述/文献pdf/优化视角摄影测量算法.pdf",
     "文献综述/文献pdf/基于自定义DEM的地形追随倾斜摄影算法.pdf",

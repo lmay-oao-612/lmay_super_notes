@@ -5,5 +5,6 @@
   "obsidian-style-settings",
   "calendar",
   "obsidian-excalidraw-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-local-rest-api"
 ]

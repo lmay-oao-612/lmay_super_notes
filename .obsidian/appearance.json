@@ -2,5 +2,8 @@
   "showRibbon": true,
   "cssTheme": "Minimal",
   "nativeMenus": true,
-  "baseFontSize": 12
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Segoe UI, -apple-system, sans-serif",
+  "textFontFamily": "Segoe UI, -apple-system, Microsoft YaHei, sans-serif",
+  "monospaceFontFamily": "Consolas, Courier New, monospace"
 }
