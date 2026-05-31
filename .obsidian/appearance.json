@@ -1,8 +1,8 @@
 {
   "showRibbon": true,
-  "cssTheme": "Minimal",
+  "cssTheme": "obsidian-adwaita-theme",
   "nativeMenus": true,
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "interfaceFontFamily": "Segoe UI, -apple-system, sans-serif",
   "textFontFamily": "Segoe UI, -apple-system, Microsoft YaHei, sans-serif",
   "monospaceFontFamily": "Consolas, Courier New, monospace"
