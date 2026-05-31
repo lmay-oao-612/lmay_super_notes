@@ -1,9 +1,10 @@
 {
   "showRibbon": false,
-  "cssTheme": "obsidian-adwaita-theme",
+  "cssTheme": "Cupertino",
   "nativeMenus": true,
   "baseFontSize": 14,
   "interfaceFontFamily": "Segoe UI, -apple-system, sans-serif",
   "textFontFamily": "Segoe UI, -apple-system, Microsoft YaHei, sans-serif",
-  "monospaceFontFamily": "Consolas, Courier New, monospace"
+  "monospaceFontFamily": "Consolas, Courier New, monospace",
+  "showViewHeader": true
 }

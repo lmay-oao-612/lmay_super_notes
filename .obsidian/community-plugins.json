@@ -1,10 +1,8 @@
 [
   "obsidian-git",
-  "obsidian-minimal-settings",
   "obsidian-hider",
   "obsidian-style-settings",
   "calendar",
-  "obsidian-excalidraw-plugin",
   "templater-obsidian",
   "obsidian-local-rest-api"
 ]
