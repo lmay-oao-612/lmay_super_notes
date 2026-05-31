@@ -1,4 +1,6 @@
 {
   "minimal-style@@bases-toolbar-opacity": 1,
-  "minimal-style@@bases-table-header-icon-display": "flex"
+  "minimal-style@@bases-table-header-icon-display": "flex",
+  "com-github-birneee-obsidian-adwaita@@adwaita-mod-right-margin": 4,
+  "com-github-birneee-obsidian-adwaita@@adwaita-mod-scale": 6
 }
