@@ -107,15 +107,34 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1da2a3f627363502",
     "type": "split",
     "children": [
       {
+        "id": "86d182ccedb8199c",
+        "type": "tabs",
+        "dimension": 31.695331695331696,
+        "children": [
+          {
+            "id": "f98c2002f5b8f696",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
         "id": "00922e9d8dc8a6f1",
         "type": "tabs",
+        "dimension": 68.3046683046683,
         "children": [
           {
             "id": "64be9f62269bcafd",
@@ -193,22 +212,12 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
-          },
-          {
-            "id": "f98c2002f5b8f696",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,7 +232,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64be9f62269bcafd",
+  "active": "4989869e99cc9ae9",
   "lastOpenFiles": [
     "奇思妙想/lmay的第一个笔记.md",
     "奇思妙想/多年前的子弹正中靶心.md",
