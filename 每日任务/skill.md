@@ -1,0 +1,1 @@
+一个可以检测skill的查找skill的skill
